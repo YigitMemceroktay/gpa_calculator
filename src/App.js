@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import StepWizard from 'react-step-wizard'
 import Header from './Header/Header.js'
+import Footer from './Footer/Footer';
 import Main from './Main/Main.js'
 const App = () => {
  
@@ -11,7 +12,7 @@ const App = () => {
     <div className="App">
       <Header/>
       <Main/>
-        
+        <Footer/>
       
 
        
