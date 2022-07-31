@@ -1,0 +1,24 @@
+.Header {
+height: 80px;
+background-color:#D9F7FA;
+display: flex;
+padding-left: 16px;
+border-radius:4px 4px 0px 0px;
+align-items:center;
+}
+.TitleImage{
+    max-height:28px;
+    margin-left:20px;
+}
+
+.Title {
+font-size:1.125em;
+
+font-weight: 500;
+margin-left:20px;
+font-family: "Barlow", "Helvetica Neue", Helvetica  ;
+height:21.3px;
+
+}
+
+
