@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gpa_calculator/static/css/main.cc7c5074.css",
+    "main.js": "/gpa_calculator/static/js/main.c2731f46.js",
+    "static/js/787.28cb0dcd.chunk.js": "/gpa_calculator/static/js/787.28cb0dcd.chunk.js",
+    "static/media/students.png": "/gpa_calculator/static/media/students.b4f4ad6acd87093939ff.png",
+    "static/media/delete.png": "/gpa_calculator/static/media/delete.98b76c9227d303838e12.png",
+    "static/media/logo.svg": "/gpa_calculator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/gpa_calculator/index.html",
+    "main.cc7c5074.css.map": "/gpa_calculator/static/css/main.cc7c5074.css.map",
+    "main.c2731f46.js.map": "/gpa_calculator/static/js/main.c2731f46.js.map",
+    "787.28cb0dcd.chunk.js.map": "/gpa_calculator/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc7c5074.css",
+    "static/js/main.c2731f46.js"
+  ]
+}
